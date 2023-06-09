@@ -1,0 +1,4 @@
+// Take in 2 numbers: a base and exponent
+
+output: 8^3 = 512
+(use superscript tag for exponent)

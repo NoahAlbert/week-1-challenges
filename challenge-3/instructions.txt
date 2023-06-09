@@ -1,0 +1,4 @@
+// Get person's first and last names and then greet them as full name
+
+output:
+Hello Jiho Sohn!

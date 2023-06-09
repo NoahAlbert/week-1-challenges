@@ -1,0 +1,4 @@
+// Given a number of weeks convert to seconds
+
+output:
+__ weeks is _____ seconds

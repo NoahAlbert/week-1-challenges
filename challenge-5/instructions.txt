@@ -1,0 +1,4 @@
+// Get person's first and last name and count letters
+
+output:
+Your name is __ letters long

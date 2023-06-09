@@ -1,0 +1,3 @@
+// Convert ¥ to $
+
+output: __ Yen is __ USD.
