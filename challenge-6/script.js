@@ -4,5 +4,12 @@ form.addEventListener("submit", (event) => {
     const weeks = event.target.weeks.value;
     const seconds = weeks * 604800;
 
-    document.getElementById("result").innerText = weeks + " weeks = " + seconds.toLocaleString() + " seconds"
+    if(weeks == 1)
+    {
+        document.getElementById("result").innerText = weeks + " week = " + seconds.toLocaleString() + " seconds";
+    }
+    else
+    {
+        document.getElementById("result").innerText = weeks + " weeks = " + seconds.toLocaleString() + " seconds";
+    }
 })
